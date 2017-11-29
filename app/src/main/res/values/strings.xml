@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MenuExample</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_edit">Edit</string>
+</resources>
